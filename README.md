@@ -1,4 +1,4 @@
-![BOFAMET Screenshot]()
+![BOT Screenshot](https://raw.githubusercontent.com/ZolManStaff/BOTcontroller/refs/heads/main/botcntrl.jpg)
 
 #  Telegram Bot Controller 
 
